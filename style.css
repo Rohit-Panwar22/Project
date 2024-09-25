@@ -14,7 +14,7 @@ html,body{
     background-size: cover;
     height: 100%;
     width:100%;
-    background-image: url('./html.jpg');
+    background-image: url('./html.webp');
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
